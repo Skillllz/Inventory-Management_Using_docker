@@ -3,18 +3,6 @@
 ## 🚀 Overview
 This **Inventory Management System** is a Django-based web application containerized using **Docker**. It allows businesses to track and manage inventory efficiently. The project includes a **PostgreSQL database**, a **Gunicorn application server**, and **Docker Compose** for orchestration.
 
-## 📂 Project Structure
-```
-.
-├── backend/                     # Django application source code
-├── Dockerfile                   # Dockerfile for building the application container
-├── docker-compose.yml           # Defines services and networking
-├── .env                         # Environment variables
-├── requirements.txt             # Python dependencies
-├── manage.py                    # Django management script
-└── README.md                    # Project documentation
-```
-
 ## 🛠️ Features
 ✅ **Django Backend** - Robust API and admin interface  
 ✅ **Dockerized Setup** - Easy deployment with Docker & Docker Compose  
