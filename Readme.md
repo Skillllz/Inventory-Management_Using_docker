@@ -54,5 +54,5 @@ docker-compose exec invenio-web python manage.py createsuperuser
 This project is open-source and available under the **MIT License**.
 
 ## 📞 Support
-For issues, open a GitHub **issue** or contact `your-email@example.com`. 🚀
+For issues, open a GitHub **issue** or contact `pakhareshubham04@gmail.com`. 🚀
 
